@@ -12,4 +12,4 @@ Arrow keys,
 `z` - rotate counter clockwise,
 `x` - rotate clockwise,
 `c` - reflect along the horizontal line,
-`v` - reflect along the vertical line,
+`v` - reflect along the vertical line.
